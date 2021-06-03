@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MarcadorFinal" size="107.000000 75.389542" />
+    <ImageTarget name="mundo_fox_este" size="10.000000 6.857143" />
+    <ImageTarget name="Calabaza" size="18.000000 16.069748" />
+    <ImageTarget name="CinderellaLetrero02" size="74.000000 74.072266" />
+    <ImageTarget name="CinderellaLetreto01" size="36.000000 13.042969" />
+    <ImageTarget name="AlexanderBad" size="10.000000 8.593750" />
+    <ImageTarget name="Alexander" size="10.000000 8.593750" />
+  </Tracking>
+</QCARConfig>
